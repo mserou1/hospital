@@ -1,1 +1,1 @@
-# hosital
+# hospital
